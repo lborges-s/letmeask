@@ -9,9 +9,6 @@ import { AdminRoom } from './pages/AdminRoom';
 
 function App() {
   return (
-
-
-
     <BrowserRouter>
       <AuthContextProvider>
         <Switch >
